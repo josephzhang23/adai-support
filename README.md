@@ -1,1 +1,1 @@
-# adai-support
+# Ad AI
